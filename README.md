@@ -67,13 +67,6 @@ I'm a **Full Stack Solution Architect** passionate about building scalable, high
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmarSiddiqui&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
----
 
 ## 📈 Contribution Graph
 
